@@ -10,7 +10,7 @@
   <img src="https://img2.teletype.in/files/dd/fd/ddfd654f-1122-43d4-b9f1-2e1cfc2574ab.gif" width="600" height="300"/>
 </div>
 
-<--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
